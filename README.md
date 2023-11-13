@@ -44,15 +44,16 @@ This website can be viewed in light mode or dark mode. As it has a responsive we
 
 
 
-Light Mode Version ![Light Mode Version](images/websitelight.png)
+### Light Mode Version ![Light Mode Version](websitelight.png)
 
 
 
-Dark Mode Version ![Dark Mode Version](images/websitedark.png)
+### Dark Mode Version ![Dark Mode Version](websitedark.png)
 
 
 
-Mobile Version ![Mobile Version](images/mobile-version.png)
+### Mobile Version
+![Mobile Version](mobile-version.png)
 
 
 
