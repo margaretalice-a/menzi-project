@@ -10,7 +10,7 @@ This is the coded prototype for my UX/UI project Menzi - a design brief generato
 
 
 
-During the initial stages of the design process, I discovered current brief generator websites significantly lack UX briefs and there is no brief generator that is exclusively for UX/UI Designers. Menzi was created to address this.
+During the initial stages of the design process, I discovered current brief generator websites significantly lack UX briefs and there is none that is exclusively for UX/UI Designers. Menzi was created to address this.
 
 
 
@@ -20,13 +20,13 @@ The website was created with a simple and minimal design, with users only having
 
 Languages used: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<br>
+<br>
+
+<b>View the live prototype: https://margaretalice-a.github.io/menzi-project/</b>
 
 
-View the live prototype: 
-
-
-
-View full details about the project [Coming Soon]
+[Full details about the project is coming soon]
 
 
 
