@@ -6,7 +6,7 @@
 
 
 
-This is the coded prototype for my UX/UI project Menzi - a design brief generator website which helps new and aspiring UX designers to practice their skills and build a strong portfolio. 
+This is the coded prototype for my UX/UI project Menzi - a design brief generator website which helps new and aspiring UX/UI designers to practice their skills and build a strong portfolio. 
 
 
 
@@ -14,11 +14,12 @@ During the initial stages of the design process, I discovered current brief gene
 
 
 
-The website was created with a simple and minimal design, with users only having to tap one button to complete the task. The code also follows web accessibility standards, such as using semantic HTML elements, using alt attributes for images and icon elements and providing a descriptive title to the webpage. 
+The website was created with a simple and minimalistic design, with users only having to tap one button to complete the task. The code also follows web accessibility standards, such as using semantic HTML elements, using alt attributes for images and icon elements and providing a descriptive title to the webpage. 
 
 
 
-Languages used: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Languages used: <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 <br>
