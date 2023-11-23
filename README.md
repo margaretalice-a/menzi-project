@@ -10,7 +10,7 @@ This is the coded prototype for my UX/UI project Menzi - a design brief generato
 
 
 
-During the initial stages of the design process, I discovered current brief generator websites significantly lack UX briefs and there is none that is exclusively for UX/UI Designers. Menzi was created to address this.
+During the initial stages of the design process, I discovered that current brief generator websites significantly lack UX briefs and there is none that is exclusively for UX/UI Designers. Menzi was created to address this.
 
 
 
