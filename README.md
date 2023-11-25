@@ -1,4 +1,4 @@
-# Menzi: UX/UI Design Brief Generator Website
+# 🖥Menzi: UX/UI Design Brief Generator Website
 
 
 
@@ -21,9 +21,6 @@ The website was created with a simple and minimalistic design, with users only h
 Languages used: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
-<br>
-
 <b>View the live prototype: https://margaretalice-a.github.io/menzi-project/</b>
 
 
@@ -37,11 +34,7 @@ Languages used: <br>
 
 
 
-This website works by simply clicking the "Generate Brief" button in the center of the page, which will generate a random design brief below with each new click. 
-
-
-
-This website can be viewed in light mode or dark mode. As it has a responsive web design, it will adjust automatically to different screen sizes. 
+This website works by simply clicking the "Generate Brief" button in the center of the page. A random design brief will be generated below with each new click. It can be viewed in light mode or dark mode & is a responsive.
 
 
 
