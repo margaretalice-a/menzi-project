@@ -14,7 +14,8 @@ During the initial stages of the design process, I discovered that current brief
 
 
 
-The website was created with a simple and minimalistic design, with users only having to tap one button to complete the task. The code also follows web accessibility standards, such as using semantic HTML elements, using alt attributes for images and icon elements and providing a descriptive title to the webpage. 
+The website was created with a simple and minimalistic design, with users only having to click one button to complete the task. 
+The code also follows web accessibility standards, such as using semantic HTML elements, using alt attributes for images and icon elements and providing a descriptive title to the webpage. 
 
 
 
@@ -34,8 +35,9 @@ Languages used: <br>
 
 
 
-This website works by simply clicking the "Generate Brief" button in the center of the page. A random design brief will be generated below with each new click. It can be viewed in light mode or dark mode & is a responsive.
+This website works by simply clicking the "Generate Brief" button in the center of the page. A random design brief will be generated below with each new click. 
 
+It can be viewed in light mode or dark mode & is responsive.
 
 
 ### Light Mode Version ![Light Mode Version](websitelight.png)
@@ -46,7 +48,7 @@ This website works by simply clicking the "Generate Brief" button in the center 
 
 
 
-### Mobile Version
+### Mobile Version (dark mode example)
 ![Mobile Version](mobile-version.png)
 
 
